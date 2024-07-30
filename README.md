@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gabo!
+- 👀 I'm a Sr. Business Intelligence Analyst in the Corporate Development team at Fluency Academy.
+- 🌱 I’m currently developing projects related to B.I. pipelines and KPI development. 
+- 💞️ I'm interested in collaborating on any data related projects.
+- 📫 How to reach me: gabriel.lima@fluencyacademy.io
